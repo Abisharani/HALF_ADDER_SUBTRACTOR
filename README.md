@@ -76,17 +76,18 @@ endmodule
 
 
 **RTL Schematic**
-![DE E-3 RTL](https://github.com/04Varsha/HALF_ADDER_SUBTRACTOR/assets/149035374/4146d7c9-565b-4389-b8a2-54118b2c261e)
+![Screenshot (5)](https://github.com/user-attachments/assets/a499f623-b3bb-4901-b523-0d8bebcc5c83)
+![Screenshot (8)](https://github.com/user-attachments/assets/ea0e62f5-fc6c-4573-b19c-8b3229aa2f0d)
 
 **Output/TIMING Waveform**
 
 HALF ADDER:
 
-![DE E-3 adder](https://github.com/04Varsha/HALF_ADDER_SUBTRACTOR/assets/149035374/8efe7503-fea8-4272-bf8b-0e334e95cdb1)
+![Screenshot (22)](https://github.com/user-attachments/assets/9ba4476c-3faf-41ca-83ac-156304a8611f)
 
 HALF SUTRACTOR:
 
-![DE E-3 subtractor](https://github.com/04Varsha/HALF_ADDER_SUBTRACTOR/assets/149035374/5bd0588f-6b33-4352-bfb0-2e33f3f77f13)
+![Screenshot (23)](https://github.com/user-attachments/assets/78d655c3-8ebb-4255-aca6-0bf4b5771584)
 
 
 **Result:**
